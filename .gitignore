@@ -3,4 +3,7 @@ bin/*
 lib/*
 pyvenv.cfg
 rut/db.sqlite3
+rut-frontend/node_modules/
+rut-frontend/build
+rut-frontend/.npm/
 
